@@ -1,3 +1,9 @@
 hello git,this is first operation!
 hello git,this is first operation!
 
+this is twice operation!
+this is twice operation!
+error:twice should be second
+
+this is third operation!
+this is third operation!
