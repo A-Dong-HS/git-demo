@@ -16,5 +16,7 @@ public class User implements Serializable {
 
     private BigDecimal salary;
 
+    private boolean sex;
+
     private static final long serialVersionUID = 1L;
 }
