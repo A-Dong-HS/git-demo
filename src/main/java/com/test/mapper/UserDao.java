@@ -16,4 +16,6 @@ public interface UserDao {
     int updateByPrimaryKey(User user);
 
     int delete(User user);
+
+    boolean oracle(User user);
 }
